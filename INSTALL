@@ -1,0 +1,9 @@
+Building Clickgem
+
+See doc/readme-qt.rst for instructions on building Clickgem-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Clickgem.
+
+See doc/build-*.txt for instructions on building clickgemd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Clickgem.
