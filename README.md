@@ -3,8 +3,8 @@ Clickgem integration/staging tree
 
 https://www.clickgem.com
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Clickgem Developers
+Copyright (c) 2009-2019 Bitcoin Developers
+Copyright (c) 2011-2019 Clickgem Developers
 
 What is Clickgem?
 ----------------
