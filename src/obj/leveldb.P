@@ -1,26 +1,26 @@
 obj/leveldb.o: leveldb.cpp leveldb.h serialize.h allocators.h version.h \
  clientversion.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/db.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/iterator.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/slice.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/status.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/options.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/write_batch.h \
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/db.h \
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/iterator.h \
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/slice.h \
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/status.h \
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/options.h \
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/write_batch.h \
  util.h uint256.h netbase.h compat.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/env.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/cache.h \
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/filter_policy.h \
- /home/ha/Downloads/Clickgem/src/leveldb/helpers/memenv/memenv.h
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/env.h \
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/cache.h \
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/filter_policy.h \
+ /home/habogay/Desktop/cgm/src/leveldb/helpers/memenv/memenv.h
 leveldb.cpp leveldb.h serialize.h allocators.h version.h :
  clientversion.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/db.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/iterator.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/slice.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/status.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/options.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/write_batch.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/db.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/iterator.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/slice.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/status.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/options.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/write_batch.h :
  util.h uint256.h netbase.h compat.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/env.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/cache.h :
- /home/ha/Downloads/Clickgem/src/leveldb/include/leveldb/filter_policy.h :
- /home/ha/Downloads/Clickgem/src/leveldb/helpers/memenv/memenv.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/env.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/cache.h :
+ /home/habogay/Desktop/cgm/src/leveldb/include/leveldb/filter_policy.h :
+ /home/habogay/Desktop/cgm/src/leveldb/helpers/memenv/memenv.h :
