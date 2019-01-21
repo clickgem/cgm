@@ -15,4 +15,7 @@ void Shutdown();
 bool AppInit2(boost::thread_group& threadGroup);
 std::string HelpMessage();
 
+
+extern unsigned int cpuid_edx;
+
 #endif
